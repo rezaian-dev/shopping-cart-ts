@@ -1,7 +1,7 @@
 <div dir="rtl" style="font-family: Tahoma, Arial, sans-serif;">
 
 <h1>🛒 فروشگاه آنلاین (نسخه TypeScript)</h1>
-<img src="https://s32.picofile.com/file/8481947126/shoppingcart_demo_.png" loading="lazy" alt="banner">
+<img src="https://s33.picofile.com/file/8484341950/banner_shopping.PNG" loading="lazy" alt="banner">
 <h2>🚀 توضیحات پروژه</h2>
 <p>
 این پروژه یک وب‌سایت فروشگاهی است که با استفاده از TypeScript بازنویسی و بهبود یافته است. تکنولوژی‌های اصلی استفاده شده:
